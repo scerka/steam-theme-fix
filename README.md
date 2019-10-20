@@ -1,4 +1,4 @@
-# SteamThemeFix (Русския язык)
+# SteamThemeFix (Русский язык)
 
 ### Информация:
 Версия темы **1.0** от **20.10.2019**. ( [СКАЧАТЬ](https://github.com/scerka/steam-theme-fix/archive/1.0.zip "Ссылка на скачивание") )  
