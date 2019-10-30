@@ -2266,7 +2266,7 @@ steam.styles
     ScrollBarHandle  //vertical scrollbar thumb
     {
 		bgcolor=none
-		//image="graphics/icon_scroll_handle"
+		image="graphics/icon_scroll_handle"
 		render_bg
 		{
 			// center fill
@@ -2276,7 +2276,7 @@ steam.styles
 
     "ScrollBarHandle:hover"
     {
-		//image="graphics/icon_scroll_handle_over"
+		image="graphics/icon_scroll_handle_over"
 		render_bg
 		{
 			// center fill
@@ -2286,7 +2286,7 @@ steam.styles
 
     "ScrollBarHandle:active"
     {
-		//image="graphics/icon_scroll_handle_over"
+		image="graphics/icon_scroll_handle_over"
 		render_bg
 		{
 			// center fill
@@ -2298,7 +2298,7 @@ steam.styles
 
     "SliderHoriz"  //horizontal scrollbar thumb
     {
-	 	//image="graphics/icon_scroll_handle_horiz"
+	 	image="graphics/icon_scroll_handle_horiz"
       render
       {
       	// center fill
@@ -2309,7 +2309,7 @@ steam.styles
     "SliderHoriz:hover"
     {
 
-			//image="graphics/icon_scroll_handle_over_horiz"
+			image="graphics/icon_scroll_handle_over_horiz"
       render
       	{
       	// center fill
@@ -2320,7 +2320,7 @@ steam.styles
     "SliderHoriz:active"
     {
 
-    	//image="graphics/icon_scroll_handle_over_horiz"
+    	image="graphics/icon_scroll_handle_over_horiz"
       	render {
       	// center fill
         	0="fill( x0 + 2, y0 + 6, x1 - 1, y1 - 3, ButtonFaceActive )"
@@ -3542,8 +3542,7 @@ steam.styles
 
 		render_bg
 		{
-			1="image( x0+48, y0, x1, y1, graphics/glow_friendslist )"
-			2="image( x1-30, y0+20, x1, y1, graphics/icon_friendslist )"
+			1="image( x1-30, y0+20, x1, y1, graphics/icon_friendslist )"
 		}
 	}
 
@@ -3560,8 +3559,7 @@ steam.styles
 
 		render_bg
 		{
-			1="image( x0+48, y0, x1, y1, graphics/glow_friendslist )"
-			2="image( x1-30, y0+20, x0, y0, graphics/icon_friendslist )"
+			1="image( x1-30, y0+20, x0, y0, graphics/icon_friendslist )"
 		}
 	}
 
@@ -3571,8 +3569,7 @@ steam.styles
 
 		 render_bg
 		{
-			1="image( x0+48, y0, x1, y1, graphics/glow_friendslist )"
-			2="image( x1-30, y0+20, x1, y1, graphics/icon_friendslist_over )"
+			1="image( x1-30, y0+20, x1, y1, graphics/icon_friendslist_over )"
 		}
 	}
 
