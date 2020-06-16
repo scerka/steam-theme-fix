@@ -1,8 +1,8 @@
 # SteamThemeFix (Русский язык)
 
 ### Информация:
-Версия темы **1.1** от **31.10.2019**. ( [СКАЧАТЬ](https://github.com/scerka/steam-theme-fix/archive/1.1.zip "Ссылка на скачивание") )  
-Для Steam от (Сборка от Окт 30 2019, 13:07:23 | Steam API: v020 | Версия пакета: 1572467527) и выше.
+Версия темы **1.2** от **16.06.2020**. ( [СКАЧАТЬ](https://github.com/scerka/steam-theme-fix/archive/1.2.zip "Ссылка на скачивание") )  
+Для Steam от (Сборка от Июня 03 2020, 22:54:53 | Steam API: v020 | Версия пакета: 1591251555) и выше.
 
 ### Описание:
 Стандартная тема Steam с мелкими исправлениями.
@@ -24,8 +24,8 @@
 # SteamThemeFix (English language)
 
 ### Information:
-Theme version **1.1** dated **31/20/2019**. ( [DOWNLOAD](https://github.com/scerka/steam-theme-fix/archive/1.1.zip "Download link") )  
-For Steam from (Build from Oct 30 2019, 13:07:23 | Steam API: v020 | Package version: 1572467527) and higher.
+Theme version **1.2** dated **16/06/2020**. ( [DOWNLOAD](https://github.com/scerka/steam-theme-fix/archive/1.2.zip "Download link") )  
+For Steam from (Build from Jun 03 2020, 22:54:53 | Steam API: v020 | Package version: 1591251555) and higher.
 
 ### Description:
 Standard Steam theme with minor fixes.

@@ -19,7 +19,7 @@
 		Divider				[!$OSX]		{}
 		Settings			[!$OSX]		{	text="#steam_menu_settings"				command="Settings" }
 		Divider				[!$OSX]		{}
-		Restart 		{	text="#Steam_MustRestart_Button"		command="RestartSteam" }
+		Restart 		                {	text="#Steam_MustRestart_Button"		command="RestartSteam" }
 		Exit				[!$OSX]		{	text="#Steam_ExitSteam"					command="Exit" }	
 	}
 	
@@ -30,9 +30,6 @@
 		Library							{	text="#steam_menu_library"				shellcmd="steam://nav/games" }
 		Hidden							{	text="#steam_menu_hidden_games"			shellcmd="steam://nav/library/collection/hidden" }
 		Downloads						{	text="#steam_menu_downloads"			shellcmd="steam://open/downloads" }
-		GamesDetails					{	text="#steam_menu_games_details"		shellcmd="steam://nav/games/details" }
-		GamesList						{	text="#steam_menu_games_list"			shellcmd="steam://nav/games/list" }
-		GamesGrid						{	text="#steam_menu_games_grid"			shellcmd="steam://nav/games/grid" }
 		Divider							{}
 		MiniMode			[!$OSX]		{	text="#steam_menu_minimode"				shellcmd="steam://open/minigameslist" }
 		LargeMode			[!$OSX]		{	text="#steam_menu_largemode"			shellcmd="steam://open/largegameslist" }
